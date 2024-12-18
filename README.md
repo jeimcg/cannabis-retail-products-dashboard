@@ -2,7 +2,7 @@
 **Using Slicers, Pivot Tables, Formulas, and Charts**
 
 ## Project Overview  
-In this project, I used a dataset from [data.gov](https://data.gov) for a dispensary specializing in both adult-use and medicinal cannabis products. The goal was to clean, format, pre-process, and explore the data using charts, formulas, and pivot tables. The project culminated in a dynamic Excel dashboard featuring slicers for filtering by product type, market (Adult-Use vs. Medicinal), and sales month, covering the period from January 1, 2023, to February 1, 2024.
+In this project, I used a dataset from [data.gov](https://data.ct.gov/w/jyg4-yu7v/wqz6-rhce?cur=YvsRBPnKHPf&from=gzxLagj_GqN) for a dispensary specializing in both adult-use and medicinal cannabis products. The goal was to clean, format, pre-process, and explore the data using charts, formulas, and pivot tables. The project culminated in a dynamic Excel dashboard featuring slicers for filtering by product type, market (Adult-Use vs. Medicinal), and sales month, covering the period from January 1, 2023, to February 1, 2024.
 
 ## Structure of the Workbook  
 The `.xlsx` file contains the following sheets:
